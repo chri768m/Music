@@ -44,7 +44,10 @@ namespace Music
             YOP_ = YOP;
         }
 
-
+        public Song()
+        {
+            
+        }
 
         
 

@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\storm\\Desktop\\Music\\Music\\Music\\Music.csproj": {}
+    "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\Music.csproj": {}
   },
   "projects": {
-    "C:\\Users\\storm\\Desktop\\Music\\Music\\Music\\Music.csproj": {
+    "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\Music.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\storm\\Desktop\\Music\\Music\\Music\\Music.csproj",
+        "projectUniqueName": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\Music.csproj",
         "projectName": "Music",
-        "projectPath": "C:\\Users\\storm\\Desktop\\Music\\Music\\Music\\Music.csproj",
-        "packagesPath": "C:\\Users\\storm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\storm\\Desktop\\Music\\Music\\Music\\obj\\",
+        "projectPath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\Music.csproj",
+        "packagesPath": "C:\\Users\\Phano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\storm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Phano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -52,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
