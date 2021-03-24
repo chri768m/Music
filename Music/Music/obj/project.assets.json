@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\storm\\Desktop\\music opgave\\Music\\Music\\Music.csproj",
+      "projectUniqueName": "C:\\Users\\storm\\Desktop\\Music\\Music\\Music\\Music.csproj",
       "projectName": "Music",
-      "projectPath": "C:\\Users\\storm\\Desktop\\music opgave\\Music\\Music\\Music.csproj",
+      "projectPath": "C:\\Users\\storm\\Desktop\\Music\\Music\\Music\\Music.csproj",
       "packagesPath": "C:\\Users\\storm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\storm\\Desktop\\music opgave\\Music\\Music\\obj\\",
+      "outputPath": "C:\\Users\\storm\\Desktop\\Music\\Music\\Music\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\storm\\AppData\\Roaming\\NuGet\\NuGet.Config",

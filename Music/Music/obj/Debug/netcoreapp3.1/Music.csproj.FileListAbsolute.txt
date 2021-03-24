@@ -1,0 +1,9 @@
+C:\Users\storm\Desktop\Music\Music\Music\bin\Debug\netcoreapp3.1\Music.deps.json
+C:\Users\storm\Desktop\Music\Music\Music\bin\Debug\netcoreapp3.1\Music.dll
+C:\Users\storm\Desktop\Music\Music\Music\bin\Debug\netcoreapp3.1\Music.pdb
+C:\Users\storm\Desktop\Music\Music\Music\obj\Debug\netcoreapp3.1\Music.csprojAssemblyReference.cache
+C:\Users\storm\Desktop\Music\Music\Music\obj\Debug\netcoreapp3.1\Music.csproj.CoreCompileInputs.cache
+C:\Users\storm\Desktop\Music\Music\Music\obj\Debug\netcoreapp3.1\Music.AssemblyInfoInputs.cache
+C:\Users\storm\Desktop\Music\Music\Music\obj\Debug\netcoreapp3.1\Music.AssemblyInfo.cs
+C:\Users\storm\Desktop\Music\Music\Music\obj\Debug\netcoreapp3.1\Music.dll
+C:\Users\storm\Desktop\Music\Music\Music\obj\Debug\netcoreapp3.1\Music.pdb

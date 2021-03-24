@@ -4,14 +4,15 @@ namespace Music
 {
     public class Song
     {
+        
         private string title_;
         private string artist_;
         private int duration_;
-        private int yearofpublication_;
+        private int YOP_;
 
 
 
-
+        public int Id { get; set; }
         public String Title
         {
             get => title_;
@@ -27,17 +28,25 @@ namespace Music
             get => duration_;
             set { duration_ = value; }
         }
-        public int YearOfPublication
+        public int YOP
         {
-            get => yearofpublication_;
-            set { yearofpublication_ = value; }
+            get => YOP_;
+            set { YOP_ = value; }
         }
 
 
-        public Song()
+        public Song(int Id, string Title, string Artist, int Duration, int YOP)
         {
-
+            this.Id = Id;
+            title_ = Title;
+            artist_ = Artist;
+            duration_ = Duration;
+            YOP_ = YOP;
         }
+
+
+
+        
 
     }
 }
