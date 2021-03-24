@@ -29,7 +29,7 @@ namespace music_web_aplication
             services.AddControllers();
 
             services.AddDbContext<music_web_aplicationContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("music_web_aplicationContext")));
+                    options.UseSqlServer(Secrets.ConnectionString));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
