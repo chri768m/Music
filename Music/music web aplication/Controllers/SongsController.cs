@@ -25,14 +25,14 @@ namespace music_web_aplication.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Song>>> GetSong()
         {
-            return await _context.Song.ToListAsync();
+            return await _context.Songs.ToListAsync();
         }
 
         // GET: api/Songs/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Song>> GetSong(int id)
         {
-            var song = await _context.Song.FindAsync(id);
+            var song = await _context.Songs.FindAsync(id);
 
             if (song == null)
             {
@@ -80,7 +80,7 @@ namespace music_web_aplication.Controllers
         [HttpPost]
         public async Task<ActionResult<Song>> PostSong(Song song)
         {
-            _context.Song.Add(song);
+            _context.Songs.Add(song);
             await _context.SaveChangesAsync();
 
             return CreatedAtAction("GetSong", new { id = song.Id }, song);
@@ -90,13 +90,13 @@ namespace music_web_aplication.Controllers
         [HttpDelete("{id}")]
         public async Task<ActionResult<Song>> DeleteSong(int id)
         {
-            var song = await _context.Song.FindAsync(id);
+            var song = await _context.Songs.FindAsync(id);
             if (song == null)
             {
                 return NotFound();
             }
 
-            _context.Song.Remove(song);
+            _context.Songs.Remove(song);
             await _context.SaveChangesAsync();
 
             return song;
@@ -104,7 +104,7 @@ namespace music_web_aplication.Controllers
 
         private bool SongExists(int id)
         {
-            return _context.Song.Any(e => e.Id == id);
+            return _context.Songs.Any(e => e.Id == id);
         }
     }
 }
