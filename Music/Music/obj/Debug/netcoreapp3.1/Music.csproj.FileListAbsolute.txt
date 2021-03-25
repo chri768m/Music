@@ -13,6 +13,6 @@ C:\Users\Phano\Documents\GitHub\Music\Music\Music\bin\Debug\netcoreapp3.1\Music.
 C:\Users\Phano\Documents\GitHub\Music\Music\Music\obj\Debug\netcoreapp3.1\Music.csprojAssemblyReference.cache
 C:\Users\Phano\Documents\GitHub\Music\Music\Music\obj\Debug\netcoreapp3.1\Music.AssemblyInfoInputs.cache
 C:\Users\Phano\Documents\GitHub\Music\Music\Music\obj\Debug\netcoreapp3.1\Music.AssemblyInfo.cs
-C:\Users\Phano\Documents\GitHub\Music\Music\Music\obj\Debug\netcoreapp3.1\Music.csproj.CoreCompileInputs.cache
 C:\Users\Phano\Documents\GitHub\Music\Music\Music\obj\Debug\netcoreapp3.1\Music.dll
 C:\Users\Phano\Documents\GitHub\Music\Music\Music\obj\Debug\netcoreapp3.1\Music.pdb
+C:\Users\Phano\Documents\GitHub\Music\Music\Music\obj\Debug\netcoreapp3.1\Music.csproj.CoreCompileInputs.cache

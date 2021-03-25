@@ -14,6 +14,6 @@ namespace music_web_aplication.Data
         {
         }
 
-        public DbSet<Music.Song> Songs { get; set; }
+        public virtual DbSet<Music.Song> Songs { get; set; }
     }
 }

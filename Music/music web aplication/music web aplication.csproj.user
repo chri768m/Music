@@ -11,5 +11,6 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>music_web_aplication.Data.music_web_aplicationContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <NameOfLastUsedPublishProfile>SL-musicwebaplication - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

@@ -23,7 +23,7 @@ namespace music_web_aplication.Controllers
 
         // GET: api/Songs
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Song>>> GetSong()
+        public async Task<ActionResult<IEnumerable<Song>>> GetSongs()
         {
             return await _context.Songs.ToListAsync();
         }
@@ -85,7 +85,7 @@ namespace music_web_aplication.Controllers
 
             return CreatedAtAction("GetSong", new { id = song.Id }, song);
         }
-        
+
         // DELETE: api/Songs/5
         [HttpDelete("{id}")]
         public async Task<ActionResult<Song>> DeleteSong(int id)

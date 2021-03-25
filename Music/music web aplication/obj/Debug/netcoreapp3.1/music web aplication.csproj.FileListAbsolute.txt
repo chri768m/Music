@@ -303,8 +303,6 @@ C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\bin\Debug\netco
 C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netcoreapp3.1\music web aplication.csprojAssemblyReference.cache
 C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netcoreapp3.1\music web aplication.AssemblyInfoInputs.cache
 C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netcoreapp3.1\music web aplication.AssemblyInfo.cs
-C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netcoreapp3.1\music web aplication.csproj.CoreCompileInputs.cache
-C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netcoreapp3.1\music web aplication.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netcoreapp3.1\music web aplication.RazorTargetAssemblyInfo.cache
 C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netcoreapp3.1\music web aplication.csproj.CopyComplete
 C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netcoreapp3.1\staticwebassets\music web aplication.StaticWebAssets.Manifest.cache
@@ -312,3 +310,11 @@ C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netco
 C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netcoreapp3.1\music web aplication.dll
 C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netcoreapp3.1\music web aplication.pdb
 C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netcoreapp3.1\music web aplication.genruntimeconfig.cache
+C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\SL-musicwebaplication - Web Deploy\profile.arm.json
+C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netcoreapp3.1\music web aplication.csproj.CoreCompileInputs.cache
+C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netcoreapp3.1\music web aplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Phano\Documents\GitHub\Music\Music\music web aplication\obj\Debug\netcoreapp3.1\music web aplication.MvcApplicationPartsAssemblyInfo.cache

@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "0YjzsRE66ZTPe7MqHwcT9Z1/fF8Je/Lm+3FHd3u8fFN0Dv3xxmWry6V6T6uzsyRGTOPyHAJV3Z3qEmkNONxKrw==",
+  "dgSpecHash": "o6geqN6k+GuUaAIp0ONm4Xzsw0IaqkR+nDecu0hjpJmxW9kjMfuHFxZClSrK1VfYwYVnRCGFKKv+7cUGdWAE3Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\Music.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Phano\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Phano\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Phano\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.1\\swashbuckle.aspnetcore.6.1.1.nupkg.sha512",
+    "C:\\Users\\Phano\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.1\\swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512",
+    "C:\\Users\\Phano\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.1\\swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512",
+    "C:\\Users\\Phano\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.1\\swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512"
+  ],
   "logs": []
 }
