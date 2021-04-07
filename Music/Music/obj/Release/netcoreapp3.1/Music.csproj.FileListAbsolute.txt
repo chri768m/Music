@@ -16,3 +16,12 @@ C:\Users\storm\Desktop\Music\Music\Music\obj\Release\netcoreapp3.1\Music.pdb
 C:\Users\storm\Desktop\Music\Music\Music\bin\Release\netcoreapp3.1\Music.deps.json
 C:\Users\storm\Desktop\Music\Music\Music\bin\Release\netcoreapp3.1\Music.dll
 C:\Users\storm\Desktop\Music\Music\Music\bin\Release\netcoreapp3.1\Music.pdb
+C:\3. semester Programmering LOKALT\Music\Music\Music\Music\bin\Release\netcoreapp3.1\Music.deps.json
+C:\3. semester Programmering LOKALT\Music\Music\Music\Music\bin\Release\netcoreapp3.1\Music.dll
+C:\3. semester Programmering LOKALT\Music\Music\Music\Music\bin\Release\netcoreapp3.1\Music.pdb
+C:\3. semester Programmering LOKALT\Music\Music\Music\Music\obj\Release\netcoreapp3.1\Music.csprojAssemblyReference.cache
+C:\3. semester Programmering LOKALT\Music\Music\Music\Music\obj\Release\netcoreapp3.1\Music.AssemblyInfoInputs.cache
+C:\3. semester Programmering LOKALT\Music\Music\Music\Music\obj\Release\netcoreapp3.1\Music.AssemblyInfo.cs
+C:\3. semester Programmering LOKALT\Music\Music\Music\Music\obj\Release\netcoreapp3.1\Music.csproj.CoreCompileInputs.cache
+C:\3. semester Programmering LOKALT\Music\Music\Music\Music\obj\Release\netcoreapp3.1\Music.dll
+C:\3. semester Programmering LOKALT\Music\Music\Music\Music\obj\Release\netcoreapp3.1\Music.pdb

@@ -2110,7 +2110,10 @@
         },
         "runtime": {
           "bin/placeholder/Music.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -7083,19 +7086,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\storm\\.nuget\\packages\\": {}
+    "C:\\Users\\Mikkel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\storm\\Desktop\\Music\\Music\\MusicTests\\MusicTests.csproj",
+      "projectUniqueName": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\MusicTests\\MusicTests.csproj",
       "projectName": "MusicTests",
-      "projectPath": "C:\\Users\\storm\\Desktop\\Music\\Music\\MusicTests\\MusicTests.csproj",
-      "packagesPath": "C:\\Users\\storm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\storm\\Desktop\\Music\\Music\\MusicTests\\obj\\",
+      "projectPath": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\MusicTests\\MusicTests.csproj",
+      "packagesPath": "C:\\Users\\Mikkel\\.nuget\\packages\\",
+      "outputPath": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\MusicTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\storm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mikkel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7107,9 +7110,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\storm\\Desktop\\Music\\Music\\Music\\Music.csproj": {
-              "projectPath": "C:\\Users\\storm\\Desktop\\Music\\Music\\Music\\Music.csproj"
+            "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\Music\\Music.csproj": {
+              "projectPath": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\Music\\Music.csproj"
             }
           }
         }
@@ -7122,6 +7126,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",
@@ -7151,11 +7156,14 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

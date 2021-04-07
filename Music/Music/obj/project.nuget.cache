@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "LcDyrbxO9cfdeboCyd1Q+FicPdZhOZnFQmNlSV4daytPLUVV9bsxQSkYOsfGZVl7+9M7qpMaIVd0CcxMyi54Fg==",
+  "dgSpecHash": "L6EVUHf05t5NitkmcWbDTqNCtk+CTx7W8e5sIc3VvpffKJ6Y06l0yNIrxCzWjMaFniTbEBaMKlHspHsB874Rtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\storm\\Desktop\\Music\\Music\\Music\\Music.csproj",
+  "projectFilePath": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\Music\\Music.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\storm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\storm\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\storm\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.1\\swashbuckle.aspnetcore.6.1.1.nupkg.sha512",
-    "C:\\Users\\storm\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.1\\swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512",
-    "C:\\Users\\storm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.1\\swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512",
-    "C:\\Users\\storm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.1\\swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512"
+    "C:\\Users\\Mikkel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.1\\swashbuckle.aspnetcore.6.1.1.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.1\\swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.1\\swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.1\\swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -28,17 +28,26 @@ namespace Music
         public String Artist
         {
             get => artist_;
-            set { artist_ = value; }
+            set
+            {
+                if (value.Length < 4) { throw new ArgumentException(); }
+                artist_ = value; }
         }
         public int Duration
         {
             get => duration_;
-            set { duration_ = value; }
+            set
+            { 
+                if (value > 20) { throw new ArgumentOutOfRangeException(); }
+                duration_ = value; }
         }
         public int YOP
         {
             get => YOP_;
-            set { YOP_ = value; }
+            set
+            {
+                if (value < 1900 || value > 2021) { throw new ArgumentOutOfRangeException(); }
+                YOP_ = value; }
         }
 
 
