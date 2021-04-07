@@ -1,0 +1,18 @@
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\music web aplication\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\music web aplication\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\music web aplication\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\music web aplication\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\SL-musicwebaplication - Web Deploy\profile.arm.json
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\music web aplication\bin\Release\netcoreapp3.1\music web aplication.exe
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\music web aplication\bin\Release\netcoreapp3.1\music web aplication.deps.json
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\music web aplication\bin\Release\netcoreapp3.1\music web aplication.runtimeconfig.json
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\music web aplication\bin\Release\netcoreapp3.1\music web aplication.runtimeconfig.dev.json
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\music web aplication\bin\Release\netcoreapp3.1\music web aplication.dll
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\music web aplication\netcoreapp3.1\music web aplication.csprojAssemblyReference.cache
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\music web aplication\netcoreapp3.1\music web aplication.AssemblyInfoInputs.cache
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\music web aplication\netcoreapp3.1\music web aplication.AssemblyInfo.cs
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\music web aplication\netcoreapp3.1\music web aplication.RazorTargetAssemblyInfo.cache
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\music web aplication\netcoreapp3.1\music web aplication.csproj.CopyComplete
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\music web aplication\netcoreapp3.1\staticwebassets\music web aplication.StaticWebAssets.Manifest.cache
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\music web aplication\netcoreapp3.1\staticwebassets\music web aplication.StaticWebAssets.xml
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\music web aplication\netcoreapp3.1\music web aplication.dll
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\music web aplication\netcoreapp3.1\music web aplication.genruntimeconfig.cache

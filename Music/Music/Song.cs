@@ -16,7 +16,14 @@ namespace Music
         public String Title
         {
             get => title_;
-            set { title_ = value; }
+            set
+            {
+                if (value.Length < 2)
+                {
+                    throw new ArgumentException();
+                }
+                title_ = value; 
+            }
         }
         public String Artist
         {

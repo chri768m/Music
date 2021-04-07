@@ -1,0 +1,7 @@
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\Music\Release\netcoreapp3.1\Music.deps.json
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\Music\Release\netcoreapp3.1\Music.dll
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\Music\Release\netcoreapp3.1\Music.csprojAssemblyReference.cache
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\Music\Release\netcoreapp3.1\Music.AssemblyInfoInputs.cache
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\Music\Release\netcoreapp3.1\Music.AssemblyInfo.cs
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\Music\Release\netcoreapp3.1\Music.csproj.CopyComplete
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\Music\Release\netcoreapp3.1\Music.dll

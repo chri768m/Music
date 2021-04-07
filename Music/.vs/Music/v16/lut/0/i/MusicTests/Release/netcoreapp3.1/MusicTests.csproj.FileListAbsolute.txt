@@ -1,0 +1,13 @@
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\MusicTests\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\MusicTests\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\MusicTests\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\MusicTests\Release\netcoreapp3.1\MusicTests.deps.json
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\MusicTests\Release\netcoreapp3.1\MusicTests.runtimeconfig.json
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\MusicTests\Release\netcoreapp3.1\MusicTests.runtimeconfig.dev.json
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\b\MusicTests\Release\netcoreapp3.1\MusicTests.dll
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\MusicTests\Release\netcoreapp3.1\MusicTests.csprojAssemblyReference.cache
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\MusicTests\Release\netcoreapp3.1\MusicTests.AssemblyInfoInputs.cache
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\MusicTests\Release\netcoreapp3.1\MusicTests.AssemblyInfo.cs
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\MusicTests\Release\netcoreapp3.1\MusicTests.csproj.CopyComplete
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\MusicTests\Release\netcoreapp3.1\MusicTests.dll
+C:\Users\storm\Desktop\Music\Music\.vs\Music\v16\lut\0\i\MusicTests\Release\netcoreapp3.1\MusicTests.genruntimeconfig.cache

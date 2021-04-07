@@ -2850,10 +2850,7 @@
         },
         "runtime": {
           "bin/placeholder/Music.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
@@ -9131,25 +9128,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Phano\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\storm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\music web aplication\\music web aplication.csproj",
+      "projectUniqueName": "C:\\Users\\storm\\Desktop\\Music\\Music\\music web aplication\\music web aplication.csproj",
       "projectName": "music web aplication",
-      "projectPath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\music web aplication\\music web aplication.csproj",
-      "packagesPath": "C:\\Users\\Phano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\music web aplication\\obj\\",
+      "projectPath": "C:\\Users\\storm\\Desktop\\Music\\Music\\music web aplication\\music web aplication.csproj",
+      "packagesPath": "C:\\Users\\storm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\storm\\Desktop\\Music\\Music\\music web aplication\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Phano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\storm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -9161,8 +9153,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\Music.csproj": {
-              "projectPath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\Music.csproj"
+            "C:\\Users\\storm\\Desktop\\Music\\Music\\Music\\Music.csproj": {
+              "projectPath": "C:\\Users\\storm\\Desktop\\Music\\Music\\Music\\Music.csproj"
             }
           }
         }
@@ -9217,7 +9209,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
