@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "amtbC4/y4Y9rtMWuKGLfe3q/rt+XoxaIouch6yuMvQ0OTc9w18D9eWb84PW+8iSyL7IBaF4KWpizlePpQzeLCw==",
+  "dgSpecHash": "wW+vh11PcLjTVkeK46x28jaJAJgv0rN4T1AUGeTxG+71UiReMuM7/cpoRSolGArZKJc8MTSBG8daTkWKHbJ21g==",
   "success": true,
   "projectFilePath": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\MusicTests\\MusicTests.csproj",
   "expectedPackageFiles": [
@@ -116,12 +116,5 @@
     "C:\\Users\\Mikkel\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
     "C:\\Users\\Mikkel\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.0.1\\system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\MusicTests\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

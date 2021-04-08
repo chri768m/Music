@@ -1,4 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Music;
 using music_web_aplication.Manager;
 using System;
 using System.Collections.Generic;
@@ -13,8 +14,8 @@ namespace music_web_aplication.Manager.Tests
         public void getAllTest()
         {
             SongManager manager = new SongManager();
-            List =  manager.getAll();
-            Assert.Fail();
+            List<Song> songs =  manager.getAll();
+            Assert.AreEqual(3, songs.Count);
         }
 
         [TestMethod()]
