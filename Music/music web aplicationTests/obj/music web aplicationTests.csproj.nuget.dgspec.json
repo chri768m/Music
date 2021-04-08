@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\music web aplicationTests\\music web aplicationTests.csproj": {}
+    "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\music web aplicationTests\\music web aplicationTests.csproj": {}
   },
   "projects": {
-    "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\music web aplicationTests\\music web aplicationTests.csproj": {
+    "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\music web aplicationTests\\music web aplicationTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\music web aplicationTests\\music web aplicationTests.csproj",
+        "projectUniqueName": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\music web aplicationTests\\music web aplicationTests.csproj",
         "projectName": "music web aplicationTests",
-        "projectPath": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\music web aplicationTests\\music web aplicationTests.csproj",
-        "packagesPath": "C:\\Users\\Mikkel\\.nuget\\packages\\",
-        "outputPath": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\music web aplicationTests\\obj\\",
+        "projectPath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\music web aplicationTests\\music web aplicationTests.csproj",
+        "packagesPath": "C:\\Users\\Phano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\music web aplicationTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mikkel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Phano\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,10 +32,13 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+            "targetAlias": ".NETCoreApp,Version=v3.1",
             "projectReferences": {
-              "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\music web aplication\\music web aplication.csproj": {
-                "projectPath": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\music web aplication\\music web aplication.csproj"
+              "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\music web aplication\\music web aplication.csproj": {
+                "projectPath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\music web aplication\\music web aplication.csproj"
+              },
+              "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\Music.csproj": {
+                "projectPath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\Music.csproj"
               }
             }
           }
@@ -46,23 +51,23 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+          "targetAlias": ".NETCoreApp,Version=v3.1",
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[2.1.0, )"
+              "version": "[2.1.1, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[2.1.0, )"
+              "version": "[2.1.1, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.5.0, )"
+              "version": "[16.7.1, )"
             },
             "coverlet.collector": {
               "target": "Package",
-              "version": "[1.2.0, )"
+              "version": "[1.3.0, )"
             }
           },
           "imports": [
@@ -84,22 +89,24 @@
         }
       }
     },
-    "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\music web aplication\\music web aplication.csproj": {
+    "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\music web aplication\\music web aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\music web aplication\\music web aplication.csproj",
+        "projectUniqueName": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\music web aplication\\music web aplication.csproj",
         "projectName": "music web aplication",
-        "projectPath": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\music web aplication\\music web aplication.csproj",
-        "packagesPath": "C:\\Users\\Mikkel\\.nuget\\packages\\",
-        "outputPath": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\music web aplication\\obj\\",
+        "projectPath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\music web aplication\\music web aplication.csproj",
+        "packagesPath": "C:\\Users\\Phano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\music web aplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mikkel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Phano\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -112,8 +119,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\Music\\Music.csproj": {
-                "projectPath": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\Music\\Music.csproj"
+              "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\Music.csproj": {
+                "projectPath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\Music.csproj"
               }
             }
           }
@@ -173,22 +180,24 @@
         }
       }
     },
-    "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\Music\\Music.csproj": {
+    "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\Music.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\Music\\Music.csproj",
+        "projectUniqueName": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\Music.csproj",
         "projectName": "Music",
-        "projectPath": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\Music\\Music.csproj",
-        "packagesPath": "C:\\Users\\Mikkel\\.nuget\\packages\\",
-        "outputPath": "C:\\3. semester Programmering LOKALT\\Music\\Music\\Music\\Music\\obj\\",
+        "projectPath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\Music.csproj",
+        "packagesPath": "C:\\Users\\Phano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Phano\\Documents\\GitHub\\Music\\Music\\Music\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mikkel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Phano\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
