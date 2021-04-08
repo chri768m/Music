@@ -12,9 +12,9 @@ namespace music_web_aplication.Manager
 
         private static readonly List<Song> SongData = new List<Song>
         {
-            new Song {Id = _nextId++, Title = "Øller1", Artist = "1212", Duration = 5, YOP = 1995},
-            new Song {Id = _nextId++, Title = "Øller2", Artist = "1312", Duration = 6, YOP = 1996},
-            new Song {Id = _nextId++, Title = "Øller3", Artist = "1412", Duration = 7, YOP = 1997}
+            new Song {Id = _nextId++, Title = "Øller1", Artist = "12", Duration = 5, YOP = 1995},
+            new Song {Id = _nextId++, Title = "Øller2", Artist = "13", Duration = 6, YOP = 1996},
+            new Song {Id = _nextId++, Title = "Øller3", Artist = "14", Duration = 7, YOP = 1997}
         };
 
 
