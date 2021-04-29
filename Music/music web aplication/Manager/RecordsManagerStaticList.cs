@@ -3,14 +3,16 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using static music_web_aplication.Manager.SongManager;
 
 namespace music_web_aplication.Manager
 {
     public class RecordsManagerStaticList : RecordsManager
     {
+        private static int _nextId = 1;
         static List<Record> RecordsData = new List<Record>
         {
-            new Song {Id = 0, Album = Fisk, TotalSongs = 1 }
+            new Record {Id = 0, Album = "Fisk", TotalSongs = 1 }
         };
 
         public Record AddRecords(Record record)
@@ -18,9 +20,11 @@ namespace music_web_aplication.Manager
             throw new NotImplementedException();
         }
 
-        public Song AddSong(int recordId, Song song)
+        public Song AddSong(int recordId, Song Addsong)
         {
-            throw new NotImplementedException();
+            Addsong.Id = _nextId++;
+            SongData.Add(Addsong);
+            return Addsong;
         }
 
         public Record DeleteRecords(int recordId)
@@ -35,7 +39,7 @@ namespace music_web_aplication.Manager
 
         public List<Record> GetAllRecords()
         {
-            throw new NotImplementedException();
+            return RecordsData;
         }
 
         public List<Song> GetSongs(int recordId, string user = null)
